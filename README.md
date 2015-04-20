@@ -17,5 +17,7 @@ library(gamer)
 entangler()
 ```
 
+![screenshot of entangler](./inst/images/entangler.png)
+
 Of course, since it is a widget, you can embed it in `rmarkdown` or `Shiny`.
 
