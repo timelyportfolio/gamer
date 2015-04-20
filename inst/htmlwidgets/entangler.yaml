@@ -1,0 +1,10 @@
+dependencies:
+  - name: d3
+    version: 3.4
+    src: htmlwidgets/d3
+    script: d3.min.js
+  - name: EntangledClone
+    version: 0.1
+    src: htmlwidgets/entangler/build
+    script: js/EntangledClone.js
+    stylesheet: [style/page.min.css, style/hex.min.css]

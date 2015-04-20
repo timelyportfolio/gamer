@@ -1,0 +1,24 @@
+Package: gamer
+Type: Package
+Title: games as htmlwidgets for R
+Version: 0.1
+Date: 2015-04-20
+Authors@R: c(
+    person(
+      "Guido", "Krömer", role = c("aut", "cph"),
+      comment = "EntangledClone library in htmlwidgets/lib, https://github.com/Cacodaimon/EntangledClone"
+    ),
+    person(
+      "Mike", "Bostock", role = c("aut", "cph"),
+      comment = "d3.js library in htmlwidgets/lib, http://d3js.org"
+    ),
+    person(
+      "Kenton", "Russell", role = c("aut", "cre"),
+      comment = "R interface", email = "kent.russell@timelyportfolio.com"
+    )
+  )
+Maintainer: Kent Russell<kent.russell@timelyportfolio.com>
+Description: This package illustrates how HTML/JS/CSS games can be played in R
+              as htmlwidgets.
+License: MIT + file LICENSE
+LazyData: TRUE
